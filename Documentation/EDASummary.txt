@@ -1,0 +1,180 @@
+The number of crimes in 2023 : 29758 
+And the number of crimes for the same period last year was :28641
+And the number of crimes for the same period last 2 year was :30440
+
+ >> The overall trend shows a decrease in the number of crimes over the years, with some fluctuations in between.
+ The highest number of crimes was recorded in 2003, and there has been a general decline since then, reaching its lowest in 2021. 
+ However, there are years, like between 2011 and 2019, where we see some increase before it starts decreasing again.
+ These fluctuations and potential causes need to be explored further.
+  >> Both metrics exhibit similar trends, indicating that the changes in crime rates are not solely due to population changes. 
+  The crimes per capita metric adjusts for population size, suggesting that the actual rate of crime 
+  (relative to population size)has also decreased over time, particularly after 2003.
+  
+  • From 2003 to 2009, there was a consistant decrease in the average daily crimes.
+• From 2011 to 2019, there was a trend of increasing average daily crimes.
+• Starting in 2019 , there was another decrease in the average number of daily crimes, which continued through 2021. This decrease might be associated with the COVID-19 pandemic.
+• Rebound in 2022, there was a slight increase in the average daily crime rate. This could indicate a potential rebound in criminal activity,
+But further analysis would be needed to understand the underlying causes. During the period from 2003 to 2021, several significant events and factors potentially influencing crime rates
+in Vancouver include:
+• 2010 Winter Olympics
+• Global Economic Recession (2008)
+• Drug Trade and Addiction Challenges
+• Social and Demographic Changes
+A comprehensive analysis would require further access to data and a deeper examination
+The crime growth rate has fluctuated over the years. The most remarkable decline happened in 2020, witnessing a 23% drop. This significant decrease could likely be attributed to the effects of the COVID-19 pandemic. Factors such as lockdowns or other restrictions might have played a role in deterring criminal activities. In 2022, there was a 6.5% increase, possibly signaling a return to pre-pandemic crime levels or patterns.
+
+Let's see which crime types decreased more in 2020.
+crime_type_category	no_of_crimes_2020	no_of_crimes_2019	percent_changed
+4	Theft	11487	15921	-27.850009
+5	Vehicle Collision	851	1137	-25.153914
+0	Break and Enter	4871	4759	2.353436
+2	Mischief	6109	5832	4.749657
+3	Offence Against a Person	2011	1896	6.065401
+1	Homicide	18	12	50.000000
+Theft and Vehicle Collision saw the largest declines in 2020, with decreases of 27% and 25%, respectively, compared to the previous year
+The daily average of crimes reported this year, up to the time this report was generated, has surpassed that of the prior year.
+>>Correlation between Crime Rate and CPI (Consumer Price Index): 
+There is a moderate to strong negative correlation between crimes per capita and the CPI index, as indicated by acorrelation coefficient of -0.75. This suggests that higher economic health (reflected by a higher CPI index) is associated with lower crimes per capita. 
+ >>Correlation between Crime Rate and Population Growth:
+The correlation between crime rate and population growth is very weak, as indicated by correlation coefficients of 0.09 for crimes per capita. 
+These findings suggest that population growth has a minimal linear relationship with crime rates.
+ In summary, the analysis indicates that economic factors (as reflected by the CPI) have a more noticeable
+correlation with crime rates compared to population growth, which shows a very weak association with crime rates.
+-Theft, despite its fluctuations, remains one of the most common crimes throughout the years.
+-Homicide cases, although grave in nature, are relatively low and do not show a consistent upward or downward trend.
+-The year 2020, likely influenced by the global pandemic and related restrictions, shows particular declines in several crime categories, most notably in theft and Vehicle Collision.
+From 2003 to 2023, 'Theft' was the most frequent crime category averaging around 14,343 cases annually, while 'Homicide' was the least common with about 15 cases per year.
+First, let's examine the average number of crimes per month over the years.
+August appears to have the highest number of crimes, while February has the fewest.February typically has fewer days than other months, which can impact monthly crime statistics
+
+Now, let's dig deeper to spot patterns in the monthly crime rates over the years.
+Crime rates generally peak during the warmer months of May to August, suggesting a potential link between crimerates and warmer weather and more outdoor activities. February often sees a decrease, possibly due to its shorter duration.Data for late 2023 appears incomplete.
+-The distribution appears to be normal, based on visual inspection, with a mean of 112 crimes per day.
+-Half of the days had between 91 and 129 crimes.
+-The peak day witnessed a significantly higher 678 crimes.
+
+Let's investigate the specific date with such a high number of crimes! 🕵‍♂️
+           holiday  weekday
+10952  not_holiday        2
+On June 6, 2011, we observed 678 crimes, which is 500% above the average of 112 crimes per day.
+To investigate the possible reasons for this extreme variation, I conducted a search for significant events or
+factors that may have contributed to this specific day in Vancouver's history.
+According to the 
+Stanley Cup Riot Prosecutions Report (PDF)
+in June 2011, a riot erupted in Vancouver during the Stanley Cup finals.
+The trouble began when it seemed the home team wouldn't win the championship. Disappointed fans turned to rioting and in five hours of rioting, members of the crowd committed multiple criminal offenses, including arson, break and enter,theft, mischief, and assault.
+Approximately 55,000 people watched the game at a public viewing area on West Georgia Street, with an additional 100,000 people      in the streets surrounding these viewing areas.
+
+Here's a breakdown of the crime types that occurred on that day.... 
+crime_type_category
+Mischief                    373
+Break and Enter             187
+Theft                        81
+Offence Against a Person      6
+Vehicle Collision             2
+... and the neighborhoods most affected.
+NEIGHBOURHOOD
+Central Business District    581
+Strathcona                    20
+Mount Pleasant                14
+West End                      13
+Fairview                       9
+Dunbar-Southlands              6
+Grandview-Woodland             4
+Renfrew-Collingwood            4
+Riley Park                     4
+Hastings-Sunrise               3
+Kensington-Cedar Cottage       3
+Victoria-Fraserview            3
+Kitsilano                      3
+Sunset                         3
+Marpole                        2
+South Cambie                   2
+Arbutus Ridge                  1
+Oakridge                       1
+Killarney                      1
+Kerrisdale                     1
+West Point Grey                1
+Some days stand out in terms of safety and danger:
+  -Christmas Day, with only 71 crimes, which is 36% below the average of 112, seems to be the safest day in Vancouver.
+  -September 1st (Labour Day), recording 134 crimes, Halloween on October 31st with 131 crimes, and New Year's Day
+  with 130 crimes, are days with high crime rates. These figures are 18% above the average.
+  -Summer seems to be more busy specially the first two weeks of the month.
+  -In many months, the first half, tends to experience a higher crime rate compared to the latter half. 
+   This trend might be influenced by factors like payday cycles, social events, or other external influences, which would
+   require further investigation to pinpoint.
+  -Across all months, the first day consistently registers crime rates ranging from 120 to 134 incidents, which is above the average.
+  Crime rates peak during Fridays and Saturdays across all months, with both days consistently seeing higher numbers. In contrast, Wednesdays and Thursdays tend to have the lowest crime rates. 
+This trend underscores distinct variations in criminal activities depending on the day of the week.
+At midnight (0 hour), there's a notable spike in the average number of crimes. 
+This surge, identified as an outlier in our boxplot analysis and could possibly be due to data entry errors,
+where incidents around midnight are systematically recorded precisely at 12.
+To provide a clearer analysis and avoid potential discrepancies related to hourly data, I've opted to use time categories instead.
+Crimes mostly occur in the evenings. On Saturdays and Sundays, crimes tend to occur at midnight,
+while Friday afternoons also see a high number of crimes.
+The night and early morning hours have the lowest number of crimes.
+The most frequently occurring crime during weekend midnight hours is offense against a person.
+This trend may be attributed to an increase in nightlife activities, a rise in alcohol and drug consumption,
+as well as reduced police presence. Further investigation is needed to better understand the underlying causes 
+
+On Friday afternoon and evenings, theft is the most commonly occurring crime.
+>> The crime types Theft from Vehicle and Other Theft consistently exhibit the highest number of incidents across the years.
+Most crime types have seen a reduction, with 'Theft of Vehicle' and 'Break and Enter Residential/Other' witnessing the most significant declines. Only 'Theft of Bicycle' registered an increase in the number of cases. 
+Over the years, advances in technology have made it more challenging for criminals to break into houses and steal vehicles. Modern vehicles, for instance, come equipped with advanced security systems, GPS tracking, immobilizers, and smart key access, making them harder to steal. Similarly, residential areas might have adopted better security systems,surveillance cameras, and stronger locks, deterring potential burglars.Community Policing and Neighborhood Watch Programs: An active community policing initiative and the establishment ofneighborhood watch programs can significantly deter crimes in residential areas. When residents actively report suspicious activities and collaborate with the police, it can lead to a reduction in criminal activities like break-ins.
+
+
+ It's interesting to note that while severe crimes such as homicide have seen a reduction of 35.29% (from 17 cases to 11 cases)
+and vehicle collisions with fatalities have decreased by 24% (from 25 cases to 19 cases), some less severe crimes like 
+'Theft of Bicycle' have seen an increase of 7.68% (from 1419 cases to 1528 cases). This contrast can be a point of interest
+for further studies to understand the varying dynamics affecting different crime categories.
+In summary, despite some years of decline and fluctuation, the long-term view from 2003 to 2023 indicates an overall positive trend in bicycle thefts, with the highest numbers recorded around 2015. Following this peak, there has been adecline. Let's delve deeper to see what could be the reasons behind this trend.
+Bicycle thefts in Vancouver dropped by about 50% from 3,064 cases in 2015 to 1,528 in 2022.I looked into this decrease and learned about Project 529, a bike registration program that started in 2015.This big drop shows that Project 529 might be really helping to stop bike thefts.
+
+Now let's examine which neighbourhoods were most affected in 2023?
+NEIGHBOURHOOD
+Central Business District    229
+Fairview                     143
+West End                     120
+Mount Pleasant               106
+Kitsilano                     84
+Grandview-Woodland            50
+Strathcona                    44
+Kensington-Cedar Cottage      39
+Renfrew-Collingwood           23
+Riley Park                    20
+Stanley Park                  20
+Marpole                       18
+Sunset                        12
+South Cambie                  12
+West Point Grey               11
+Oakridge                       9
+Hastings-Sunrise               9
+Killarney                      8
+Arbutus Ridge                  8
+Shaughnessy                    6
+Kerrisdale                     4
+Dunbar-Southlands              3
+Victoria-Fraserview            1
+dtype: int64
+
+What times do these incidents occur most frequently?
+time_category
+3-Afternoon        237
+4-Evening          229
+2-Late Morning     184
+6-Midnight         145
+1-Early Morning    110
+5-Night             74
+dtype: int64
+The comparison of crime types between 2022 and the same period in 2023 shows varied trends:Other Theft and Mischief have notably increased, with 1,458 and 482 more incidents, respectively.Significant decreases are seen in Theft of Bicycle (-429), Break and Enter Commercial (-188), and Theft of Vehicle (-163).Theft from Vehicle and Break and Enter Residential/Other show marginal declines.Homicide incidents slightly increased, while Vehicle Collision or Pedestrian Struck categories show minor changes.This data indicates a shift in crime patterns, with increases in some types of property crimes and decreases in others
+The Central Business District consistently ranks as the top neighbourhood with the highest number of reported crimes.Given its status as a commercial and cultural hub, it's expected towitness a higher frequency of crimes.
+Quiet Neighborhoods: Arbutus Ridge, Musqueam, and Stanley Park have among the lowest average daily crime rates, hovering around1 to 2 crimes per day. 
+These neighborhoods might be more residential or recreational, leading to fewer incidents.
+Active Residential Areas: Neighborhoods like Fairview, Grandview-Woodland, Mount Pleasant, and Renfrew-Collingwood see higher averagesranging from 6 to 7 crimes per day, indicating these could be densely populated or have a mix of commercialand residential zones. 
+
+West End's Distinction: The West End stands out with an average of nearly 10 crimes a day, making it second only to the CBD.Given itsvibrant mix of residential, commercial, and recreational spots, it's a hotspot of activity.
+Stable Middle Ground: Neighborhoods such as Hastings-Sunrise, Kensington-Cedar Cottage, Kitsilano, and Sunset maintain a steady middleground with averages between 3 to 6 crimes daily
+In Vancouver's Central Business District, which experiences the highest crime rates, 'Theft' notably leads withan average of 4,341 crimes per year, followed by 'Mischief' and 'Break and Enter', while 'Homicide' remains relatively rare\ with an average of just under 4 cases annually.
+The Central Business District, has significant safety concerns, especially during the late-night hours and on weekends. 
+ The hours from 6 PM to 8 PM, particularly from Tuesday to Friday, register high crime rates.
+ 

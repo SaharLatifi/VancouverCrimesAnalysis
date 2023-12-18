@@ -1,0 +1,26 @@
+Crime Analysys Measures :
+>>Per Capita :
+Total Number of crimes per capita = ([Total Number of Crimes] / [Population]) * 100000
+
+
+                        DIVIDE([Number Of Immigrants By Country] - [Number Of Immigrants Prev Year] , [Number Of Immigrants Prev Year], 0 )
+						
+						
+>>Slicer selected value:
+Selected Value_x Years = SELECTEDVALUE('Last x Years to Show'[Years])						
+						
+
+>>Show total value based on the selected time duration:
+Total Number of crimes per capita_Last x Years = VAR Refrence = CALCULATE(MAX(DateFromCrimeHistory[Date] ) ,  ALLSELECTED (Fact_Crime))  
+           -- VAR PreviousDates = DATESINPERIOD(DateForPreviousDatesCalculation[Date],Refrence ,-1 * ([Selected Value_x Years]---1) , YEAR)
+            VAR StartDate  = DATEVALUE("01/01/" & ( YEAR(Refrence) -( [Selected Value_x Years] - 1)))
+            VAR PreviousDates = DATESBETWEEN(DateForPreviousDatesCalculation[Date], StartDate , Refrence )
+            VAR Result  = 
+                        CALCULATE
+                                (
+                                    [Total Number of Crimes],
+                                    REMOVEFILTERS(Dim_Date) , 
+                                    KEEPFILTERS(PreviousDates) , 
+                                    USERELATIONSHIP(Dim_Date[DateId],DateForPreviousDatesCalculation[DateId])
+                                )
+RETURN Result						
