@@ -1,0 +1,232 @@
+﻿CrimeType,Annual Crime Rate Change_Per Capita,Year
+Break and Enter Commercial,0.00%,2003
+Break and Enter Commercial,1.31%,2004
+Break and Enter Commercial,-20.53%,2005
+Break and Enter Commercial,6.38%,2006
+Break and Enter Commercial,-15.92%,2007
+Break and Enter Commercial,-10.24%,2008
+Break and Enter Commercial,-17.92%,2009
+Break and Enter Commercial,-12.34%,2010
+Break and Enter Commercial,3.70%,2011
+Break and Enter Commercial,-4.86%,2012
+Break and Enter Commercial,3.67%,2013
+Break and Enter Commercial,25.03%,2014
+Break and Enter Commercial,8.05%,2015
+Break and Enter Commercial,8.01%,2016
+Break and Enter Commercial,-19.29%,2017
+Break and Enter Commercial,-9.00%,2018
+Break and Enter Commercial,22.05%,2019
+Break and Enter Commercial,10.87%,2020
+Break and Enter Commercial,-26.19%,2021
+Break and Enter Commercial,-5.35%,2022
+Break and Enter Commercial,-22.05%,2023
+Break and Enter Residential/Other,0.00%,2003
+Break and Enter Residential/Other,-6.29%,2004
+Break and Enter Residential/Other,-16.29%,2005
+Break and Enter Residential/Other,1.05%,2006
+Break and Enter Residential/Other,-13.46%,2007
+Break and Enter Residential/Other,-12.94%,2008
+Break and Enter Residential/Other,-22.42%,2009
+Break and Enter Residential/Other,-8.26%,2010
+Break and Enter Residential/Other,-2.78%,2011
+Break and Enter Residential/Other,1.23%,2012
+Break and Enter Residential/Other,-9.81%,2013
+Break and Enter Residential/Other,-0.66%,2014
+Break and Enter Residential/Other,1.15%,2015
+Break and Enter Residential/Other,-5.31%,2016
+Break and Enter Residential/Other,-18.90%,2017
+Break and Enter Residential/Other,-3.79%,2018
+Break and Enter Residential/Other,-6.04%,2019
+Break and Enter Residential/Other,-9.09%,2020
+Break and Enter Residential/Other,-29.16%,2021
+Break and Enter Residential/Other,-15.85%,2022
+Break and Enter Residential/Other,-16.76%,2023
+Homicide,0.00%,2003
+Homicide,27.79%,2004
+Homicide,-1.25%,2005
+Homicide,-19.26%,2006
+Homicide,3.69%,2007
+Homicide,-6.94%,2008
+Homicide,-1.77%,2009
+Homicide,-45.43%,2010
+Homicide,47.46%,2011
+Homicide,-47.33%,2012
+Homicide,-13.59%,2013
+Homicide,26.97%,2014
+Homicide,64.58%,2015
+Homicide,-27.58%,2016
+Homicide,52.61%,2017
+Homicide,-12.87%,2018
+Homicide,-20.79%,2019
+Homicide,48.54%,2020
+Homicide,4.53%,2021
+Homicide,-42.66%,2022
+Homicide,17.05%,2023
+Mischief,0.00%,2003
+Mischief,-13.45%,2004
+Mischief,-10.71%,2005
+Mischief,0.98%,2006
+Mischief,-8.75%,2007
+Mischief,7.58%,2008
+Mischief,-17.52%,2009
+Mischief,0.21%,2010
+Mischief,5.27%,2011
+Mischief,-13.63%,2012
+Mischief,-2.35%,2013
+Mischief,6.50%,2014
+Mischief,-8.50%,2015
+Mischief,8.27%,2016
+Mischief,15.76%,2017
+Mischief,5.11%,2018
+Mischief,1.03%,2019
+Mischief,3.73%,2020
+Mischief,-12.35%,2021
+Mischief,2.83%,2022
+Mischief,-3.66%,2023
+Offence Against a Person,0.00%,2003
+Offence Against a Person,4.22%,2004
+Offence Against a Person,-4.63%,2005
+Offence Against a Person,6.04%,2006
+Offence Against a Person,-3.50%,2007
+Offence Against a Person,-4.16%,2008
+Offence Against a Person,-8.24%,2009
+Offence Against a Person,-2.63%,2010
+Offence Against a Person,-4.65%,2011
+Offence Against a Person,-1.48%,2012
+Offence Against a Person,-6.48%,2013
+Offence Against a Person,-9.44%,2014
+Offence Against a Person,-0.26%,2015
+Offence Against a Person,-2.49%,2016
+Offence Against a Person,-3.33%,2017
+Offence Against a Person,-1.94%,2018
+Offence Against a Person,1.86%,2019
+Offence Against a Person,5.03%,2020
+Offence Against a Person,-0.43%,2021
+Offence Against a Person,0.02%,2022
+Offence Against a Person,-13.57%,2023
+Other Theft,0.00%,2003
+Other Theft,-1.16%,2004
+Other Theft,-1.94%,2005
+Other Theft,-10.50%,2006
+Other Theft,-7.27%,2007
+Other Theft,-4.40%,2008
+Other Theft,-1.70%,2009
+Other Theft,-2.84%,2010
+Other Theft,-1.45%,2011
+Other Theft,4.75%,2012
+Other Theft,1.77%,2013
+Other Theft,3.85%,2014
+Other Theft,-3.04%,2015
+Other Theft,11.62%,2016
+Other Theft,-2.67%,2017
+Other Theft,-5.90%,2018
+Other Theft,8.44%,2019
+Other Theft,-30.51%,2020
+Other Theft,-1.70%,2021
+Other Theft,24.06%,2022
+Other Theft,0.04%,2023
+Theft from Vehicle,0.00%,2003
+Theft from Vehicle,1.30%,2004
+Theft from Vehicle,-10.20%,2005
+Theft from Vehicle,-12.18%,2006
+Theft from Vehicle,-18.46%,2007
+Theft from Vehicle,-9.26%,2008
+Theft from Vehicle,-12.96%,2009
+Theft from Vehicle,-15.45%,2010
+Theft from Vehicle,-15.16%,2011
+Theft from Vehicle,7.54%,2012
+Theft from Vehicle,1.64%,2013
+Theft from Vehicle,20.16%,2014
+Theft from Vehicle,2.70%,2015
+Theft from Vehicle,19.99%,2016
+Theft from Vehicle,-0.15%,2017
+Theft from Vehicle,14.29%,2018
+Theft from Vehicle,12.29%,2019
+Theft from Vehicle,-39.27%,2020
+Theft from Vehicle,-28.78%,2021
+Theft from Vehicle,-3.93%,2022
+Theft from Vehicle,-12.43%,2023
+Theft of Bicycle,0.00%,2003
+Theft of Bicycle,-14.41%,2004
+Theft of Bicycle,13.68%,2005
+Theft of Bicycle,2.23%,2006
+Theft of Bicycle,-19.45%,2007
+Theft of Bicycle,-3.97%,2008
+Theft of Bicycle,37.08%,2009
+Theft of Bicycle,-0.09%,2010
+Theft of Bicycle,-10.65%,2011
+Theft of Bicycle,18.28%,2012
+Theft of Bicycle,10.44%,2013
+Theft of Bicycle,19.60%,2014
+Theft of Bicycle,22.95%,2015
+Theft of Bicycle,-15.01%,2016
+Theft of Bicycle,-17.54%,2017
+Theft of Bicycle,-2.82%,2018
+Theft of Bicycle,1.48%,2019
+Theft of Bicycle,-11.41%,2020
+Theft of Bicycle,-27.23%,2021
+Theft of Bicycle,3.65%,2022
+Theft of Bicycle,-36.54%,2023
+Theft of Vehicle,0.00%,2003
+Theft of Vehicle,-5.29%,2004
+Theft of Vehicle,-18.59%,2005
+Theft of Vehicle,-27.77%,2006
+Theft of Vehicle,-11.83%,2007
+Theft of Vehicle,-28.14%,2008
+Theft of Vehicle,-23.59%,2009
+Theft of Vehicle,-23.45%,2010
+Theft of Vehicle,-26.59%,2011
+Theft of Vehicle,3.98%,2012
+Theft of Vehicle,-11.45%,2013
+Theft of Vehicle,23.41%,2014
+Theft of Vehicle,4.87%,2015
+Theft of Vehicle,6.46%,2016
+Theft of Vehicle,-0.05%,2017
+Theft of Vehicle,-24.42%,2018
+Theft of Vehicle,19.17%,2019
+Theft of Vehicle,-38.70%,2020
+Theft of Vehicle,-2.59%,2021
+Theft of Vehicle,7.42%,2022
+Theft of Vehicle,-28.38%,2023
+Vehicle Collision or Pedestrian Struck (with Fatality),0.00%,2003
+Vehicle Collision or Pedestrian Struck (with Fatality),-13.11%,2004
+Vehicle Collision or Pedestrian Struck (with Fatality),43.63%,2005
+Vehicle Collision or Pedestrian Struck (with Fatality),-38.33%,2006
+Vehicle Collision or Pedestrian Struck (with Fatality),17.88%,2007
+Vehicle Collision or Pedestrian Struck (with Fatality),-30.42%,2008
+Vehicle Collision or Pedestrian Struck (with Fatality),-19.10%,2009
+Vehicle Collision or Pedestrian Struck (with Fatality),-29.83%,2010
+Vehicle Collision or Pedestrian Struck (with Fatality),17.97%,2011
+Vehicle Collision or Pedestrian Struck (with Fatality),48.12%,2012
+Vehicle Collision or Pedestrian Struck (with Fatality),-17.71%,2013
+Vehicle Collision or Pedestrian Struck (with Fatality),-7.83%,2014
+Vehicle Collision or Pedestrian Struck (with Fatality),-1.25%,2015
+Vehicle Collision or Pedestrian Struck (with Fatality),5.80%,2016
+Vehicle Collision or Pedestrian Struck (with Fatality),-7.83%,2017
+Vehicle Collision or Pedestrian Struck (with Fatality),-8.30%,2018
+Vehicle Collision or Pedestrian Struck (with Fatality),6.63%,2019
+Vehicle Collision or Pedestrian Struck (with Fatality),-43.41%,2020
+Vehicle Collision or Pedestrian Struck (with Fatality),172.33%,2021
+Vehicle Collision or Pedestrian Struck (with Fatality),-14.47%,2022
+Vehicle Collision or Pedestrian Struck (with Fatality),-21.81%,2023
+Vehicle Collision or Pedestrian Struck (with Injury),0.00%,2003
+Vehicle Collision or Pedestrian Struck (with Injury),1.13%,2004
+Vehicle Collision or Pedestrian Struck (with Injury),5.67%,2005
+Vehicle Collision or Pedestrian Struck (with Injury),-31.73%,2006
+Vehicle Collision or Pedestrian Struck (with Injury),-12.07%,2007
+Vehicle Collision or Pedestrian Struck (with Injury),-5.98%,2008
+Vehicle Collision or Pedestrian Struck (with Injury),5.94%,2009
+Vehicle Collision or Pedestrian Struck (with Injury),2.00%,2010
+Vehicle Collision or Pedestrian Struck (with Injury),-6.66%,2011
+Vehicle Collision or Pedestrian Struck (with Injury),15.36%,2012
+Vehicle Collision or Pedestrian Struck (with Injury),0.09%,2013
+Vehicle Collision or Pedestrian Struck (with Injury),4.31%,2014
+Vehicle Collision or Pedestrian Struck (with Injury),4.45%,2015
+Vehicle Collision or Pedestrian Struck (with Injury),1.12%,2016
+Vehicle Collision or Pedestrian Struck (with Injury),-11.90%,2017
+Vehicle Collision or Pedestrian Struck (with Injury),-4.30%,2018
+Vehicle Collision or Pedestrian Struck (with Injury),-23.73%,2019
+Vehicle Collision or Pedestrian Struck (with Injury),-25.88%,2020
+Vehicle Collision or Pedestrian Struck (with Injury),18.58%,2021
+Vehicle Collision or Pedestrian Struck (with Injury),-1.84%,2022
+Vehicle Collision or Pedestrian Struck (with Injury),-8.80%,2023
